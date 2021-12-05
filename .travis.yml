@@ -1,0 +1,2 @@
+language: java
+script: ./mvn clean jacoco:prepare-agent install jacoco:report pitest:mutationCoverage
