@@ -1,0 +1,13 @@
+decembre2021:
+  jour4:
+    input:
+      exemple: classpath:input/2021/jour4.input.example
+      real: classpath:input/2021/jour4.input.real
+  jour5:
+    input:
+      exemple: classpath:input/2021/jour5.input.example
+      real: classpath:input/2021/jour5.input.real
+  jour6:
+    input:
+      exemple: classpath:input/2021/jour6.input.example
+      real: classpath:input/2021/jour6.input.real
