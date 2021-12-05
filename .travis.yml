@@ -1,4 +1,4 @@
 language: java
 before_install:
   - chmod +x mvnw
-script: ./mvn clean jacoco:prepare-agent install jacoco:report pitest:mutationCoverage
+script: ./mvnw clean jacoco:prepare-agent install jacoco:report pitest:mutationCoverage
