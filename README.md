@@ -3,7 +3,7 @@ Solution advent of code
 
 [![Build Status](https://app.travis-ci.com/DamCarduner/aoc.svg?branch=main)](https://app.travis-ci.com/DamCarduner/aoc)
 
-#usage
+# usage
 
 ## build
 ```
